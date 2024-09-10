@@ -1,3 +1,3 @@
-# Day-7-Introduction-to-Fleet-Server-and-Elastic-Agent
+# Day-6-Introduction-to-Fleet-Server-and-Elastic-Agent
 
 
