@@ -10,6 +10,9 @@ If you’ve ever been in a similar situation or foresee this as a possible futur
 
 ## Elastic Agents and Fleet Server
 
+![Alt text](https://raw.githubusercontent.com/Virus192/Day-6-Introduction-to-Fleet-Server-and-Elastic-Agent/refs/heads/main/Images/a.png)
+
+
 ### What is an Elastic Agent?
 
 The Elastic Agent is a unified way to add monitoring for logs, metrics, and other types of data in your environment. It works based on policies that you can update, adding integrations and protections. These policies tell the endpoints what logs should be forwarded to your Elasticsearch or Logstash instance.
@@ -22,6 +25,8 @@ There are two primary ways to install and manage Elastic Agents:
 - **Standalone Mode:** For advanced users, the agent can be installed and configured manually. This method provides granular control over configuration but lacks the convenience of centralized management.
 
 For this project, I’ll focus on the Fleet Managed Mode, as it allows seamless management of agents across multiple endpoints.
+
+![Alt text](https://raw.githubusercontent.com/Virus192/Day-6-Introduction-to-Fleet-Server-and-Elastic-Agent/refs/heads/main/Images/fleet-server-cloud-deployment.png)
 
 ### Recap: ELK Stack Introduction
 
